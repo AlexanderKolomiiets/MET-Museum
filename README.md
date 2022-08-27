@@ -1,13 +1,13 @@
 # The MET
 
-- [DEMO LINK](https://alexanderkolomiiets.github.io/The-Met-Landing-page/) 
-- [DESIGN](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students)
+- [DEMO LINK](https://alexanderkolomiiets.github.io/The-Met-Landing-page/)
+- [DESIGN](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29)
 
 Site is developed for:
 
 - mobile screens: >320px;
-- tablets: >768px;
-- desktop: >1200px;
+- tablets: >744px;
+- desktop: >1024px;
 
 Technologies used:
 
