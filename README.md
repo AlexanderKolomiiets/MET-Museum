@@ -1,6 +1,6 @@
 # The MET Landing page
 
-- [PREVIEW LINK](https://alexanderkolomiiets.github.io/The-Met-Landing-page/)
+- [PREVIEW LINK](https://alexanderkolomiiets.github.io/The-MET/)
 - [DESIGN](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29)
 
 Site is developed for:
